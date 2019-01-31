@@ -8,6 +8,7 @@
     "message-documentation": "linkplus.json",
     "message-test-display": "display.json"
   },
+  "message": "Test",
   "linkPlus-index-title": "Link Plus, title of HTML page, not visible",
   "linkPlus-index-logo": "SES-IMAGOTAG, alternative text if logo not visible",
   "linkPlus-index-displayTitle": "Link Plus, title at the top of the page",
