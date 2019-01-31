@@ -5,6 +5,7 @@
     ],
     "last-updated": "2019-01-17",
     "locale": "fr",
-    "message-documentation": "linkplus.json",
+    "message-documentation": "linkplus_en_GB.json",
+    "message-test-display": "display.json"
   }
 }
