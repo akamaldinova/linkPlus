@@ -73,7 +73,7 @@
   "linkPlus-setupLanguages-simplifiedChinese": " 汉语 (From Language setup page: DO NOT CHANGE THAT VALUE, except if spell wrong)",
   "linkPlus-setupLanguages-traditionalChinese": "漢語 (From Language setup page: DO NOT CHANGE THAT VALUE, except if spell wrong)",
   "linkPlus-setupLanguages-southKorean": "한국어 (From Language setup page: DO NOT CHANGE THAT VALUE, except if spell wrong)",
-  "linkPlus-setupLanguages-japanese": "	日本語 (From Language setup page: DO NOT CHANGE THAT VALUE, except if spell wrong)",
+  "linkPlus-setupLanguages-japanese": "日本語 (From Language setup page: DO NOT CHANGE THAT VALUE, except if spell wrong)",
   "linkPlus-setupApiKey-displayTitle": "API KEY (From Api key setup page: Title below SES-IMAGOTAG icon at the top of the page)",
   "linkPlus-setupApiKey-cardTitle": "Cloud's domain key (From Api key setup page: Title line before the placeholder)",
   "linkPlus-setupApiKey-placeholder": "API Key - Cloud only (From Api key setup page: Text inside the placeholder)",
