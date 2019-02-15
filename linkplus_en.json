@@ -19,6 +19,7 @@
   "linkPlus-index-eslCheck": "Check Esl (From Bottom menu, text below icon, for accessing the ESL check page)",
   "linkPlus-index-serverCheck": "Server status (From Bottom menu, text below icon, for accessing the system status page)",
   "linkPlus-index-switchPage": "Switch page (From Bottom menu, text below icon, for accessing the switch screen page)",
+  "linkPlus-index-queueAssociationDissociation": "$1 association / dissociation (From Nav area, display the medias count for pending associations and dissociation)",
   "linkPlus-setupServer-displayTitle": "Link Plus (From Server setup page: Title below SES-IMAGOTAG icon at the top of the page)",
   "linkPlus-setupServer-serverTitle": "Server (From Server setup page: Title line before URL/Port/Domain, visible only if non cloud configuration)",
   "linkPlus-setupServer-cloudInstall": "Cloud installation? (From Server setup page: Choose if you're in Cloud or non Cloud configuration)",
@@ -100,5 +101,16 @@
   "linkPlus-setupAbout-companyWebsiteValue": "www.ses-imagotag.com (From About setup page: Text on the right side for the company website, it's not the link itself)",
   "linkPlus-ajaxRequest-errorNoServerResponse": "No server response, check parameters again (From AjaxRequest page: It's an error message displayd after API call, could happens on any page which used API call)",
   "linkPlus-global-scanbarcode": "Scan a barcode (From Global page: Text shown when barcode camera is enable, at the bottom)",
-  "linkPlus-global-scanFailure": "Scanning failed:  (From Global page: Text shown if the barcode function failed for any reason, the error message is displayd just after)"
+  "linkPlus-global-scanFailure": "Scanning failed:  (From Global page: Text shown if the barcode function failed for any reason, the error message is displayd just after)",
+  "linkPlus-associationSingle-displayTitle":"Link Plus (From Association page: Title below SES-IMAGOTAG icon at the top of the page)",
+  "linkPlus-associationSingle-choiceAssoc":"Association (From Association page: Text on button for enableing Association display)",
+  "linkPlus-associationSingle-choiceDissoc":"Dissociation (From Association page: Text on button for enableing Dissociation display)",
+  "linkPlus-associationSingle-eslCodeText":"ESL code (From Association page: Text over the input for scanning ESL code)",
+  "linkPlus-associationSingle-templateText":"Template (From Association page: Text over the template selection in case of association display)",
+  "linkPlus-associationSingle-articleCodeText":"Article code (From Association page: Text over the input for scanning article code in case of association display)",
+  "linkPlus-associationSingle-transmitButton":"Transmit (From Association page: Text on button for transmitting the command)",
+  "linkPlus-associationSingle-eslCodeInvalidPattern":"ESL code is not valid for your installation! (From Association page: Text on alert popup if esl code do not match any pattern from setting)",
+  "linkPlus-associationSingle-nfcTagIsNotValidEslCode":"NFC tag is not a valid ESL code. (From Association page: Event fire after using NFC function, is the NFC tag isn't an ESL)",
+  "linkPlus-associationSingle-eslCodeFieldEmpty":"ESL code field is empty, cannot transmit (From Association page: Text on alert popup if user request transmission but field ESL Code is empty)",
+  "linkPlus-associationSingle-articleCodeFieldEmpty":"Article code field is empty, cannot transmit (From Association page: Text on alert popup if user request transmission but field article code is empty)"
 }

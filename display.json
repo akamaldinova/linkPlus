@@ -19,6 +19,7 @@
   "linkPlus-index-eslCheck": "Check Esl",
   "linkPlus-index-serverCheck": "Server status",
   "linkPlus-index-switchPage": "Switch page",
+  "linkPlus-index-queueAssociationDissociation": "$1 association / dissociation",
   "linkPlus-setupServer-displayTitle": "Link Plus",
   "linkPlus-setupServer-serverTitle": "Server",
   "linkPlus-setupServer-cloudInstall": "Cloud installation?",
@@ -100,5 +101,16 @@
   "linkPlus-setupAbout-companyWebsiteValue": "www.ses-imagotag.com",
   "linkPlus-ajaxRequest-errorNoServerResponse": "No server response, check parameters again",
   "linkPlus-global-scanbarcode": "Scan a barcode",
-  "linkPlus-global-scanFailure": "Scanning failed: "
+  "linkPlus-global-scanFailure": "Scanning failed: ",
+  "linkPlus-associationSingle-displayTitle":"Link Plus",
+  "linkPlus-associationSingle-choiceAssoc":"Association",
+  "linkPlus-associationSingle-choiceDissoc":"Dissociation",
+  "linkPlus-associationSingle-eslCodeText":"ESL code",
+  "linkPlus-associationSingle-templateText":"Template",
+  "linkPlus-associationSingle-articleCodeText":"Article code",
+  "linkPlus-associationSingle-transmitButton":"Transmit",
+  "linkPlus-associationSingle-eslCodeInvalidPattern":"ESL code is not valid for your installation!",
+  "linkPlus-associationSingle-nfcTagIsNotValidEslCode":"NFC tag is not a valid ESL code.",
+  "linkPlus-associationSingle-eslCodeFieldEmpty":"ESL code field is empty, cannot transmit",
+  "linkPlus-associationSingle-articleCodeFieldEmpty":"Article code field is empty, cannot transmit"
 }

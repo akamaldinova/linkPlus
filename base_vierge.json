@@ -19,6 +19,7 @@
   "linkPlus-index-eslCheck": "",
   "linkPlus-index-serverCheck": "",
   "linkPlus-index-switchPage": "",
+  "linkPlus-index-queueAssociationDissociation": "",
   "linkPlus-setupServer-displayTitle": "",
   "linkPlus-setupServer-serverTitle": "",
   "linkPlus-setupServer-cloudInstall": "",
@@ -100,5 +101,16 @@
   "linkPlus-setupAbout-companyWebsiteValue": "",
   "linkPlus-ajaxRequest-errorNoServerResponse": "",
   "linkPlus-global-scanbarcode": "",
-  "linkPlus-global-scanFailure": ""
+  "linkPlus-global-scanFailure": "",
+  "linkPlus-associationSingle-displayTitle":"",
+  "linkPlus-associationSingle-choiceAssoc":"",
+  "linkPlus-associationSingle-choiceDissoc":"",
+  "linkPlus-associationSingle-eslCodeText":"",
+  "linkPlus-associationSingle-templateText":"",
+  "linkPlus-associationSingle-articleCodeText":"",
+  "linkPlus-associationSingle-transmitButton":"",
+  "linkPlus-associationSingle-eslCodeInvalidPattern":"",
+  "linkPlus-associationSingle-nfcTagIsNotValidEslCode":"",
+  "linkPlus-associationSingle-eslCodeFieldEmpty":"",
+  "linkPlus-associationSingle-articleCodeFieldEmpty":""
 }
