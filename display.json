@@ -1,13 +1,9 @@
 {
-  "@metadata": {
-    "authors": [
-      "Jerome SICO"
-    ],
-    "last-updated": "2019-02-12",
-    "locale": "en",
-    "message-documentation": "linkplus_en.json",
-    "message-test-display": "display.json"
-  },
+  "@metadata.authors[0]": "Jerome SICO",
+  "@metadata.last-updated": "2019-02-12",
+  "@metadata.locale": "en",
+  "@metadata.message-documentation": "linkplus_en.json",
+  "@metadata.message-test-display": "display.json",
   "linkPlus-index-title": "Link Plus $1",
   "linkPlus-index-setupServer": "Setup server",
   "linkPlus-index-parameters": "Parameters",

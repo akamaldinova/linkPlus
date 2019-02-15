@@ -1,13 +1,9 @@
 {
-  "@metadata": {
-    "authors": [
-      "Jerome SICO"
-    ],
-    "last-updated": "2019-02-12",
-    "locale": "en_GB",
-    "message-documentation": "linkplus_en.json",
-    "message-test-display": "display.json"
-  },
+  "@metadata.authors[0]": "Jerome SICO",
+  "@metadata.last-updated": "2019-02-12",
+  "@metadata.locale": "en_GB",
+  "@metadata.message-documentation": "linkplus_en.json",
+  "@metadata.message-test-display": "display.json",
   "linkPlus-index-title": "",
   "linkPlus-index-setupServer": "",
   "linkPlus-index-parameters": "",
@@ -19,6 +15,7 @@
   "linkPlus-index-eslCheck": "",
   "linkPlus-index-serverCheck": "",
   "linkPlus-index-switchPage": "",
+  "linkPlus-index-queueAssociationDissociation": "",
   "linkPlus-setupServer-displayTitle": "",
   "linkPlus-setupServer-serverTitle": "",
   "linkPlus-setupServer-cloudInstall": "",
@@ -100,5 +97,16 @@
   "linkPlus-setupAbout-companyWebsiteValue": "",
   "linkPlus-ajaxRequest-errorNoServerResponse": "",
   "linkPlus-global-scanbarcode": "",
-  "linkPlus-global-scanFailure": ""
+  "linkPlus-global-scanFailure": "",
+  "linkPlus-associationSingle-displayTitle":"",
+  "linkPlus-associationSingle-choiceAssoc":"",
+  "linkPlus-associationSingle-choiceDissoc":"",
+  "linkPlus-associationSingle-eslCodeText":"",
+  "linkPlus-associationSingle-templateText":"",
+  "linkPlus-associationSingle-articleCodeText":"",
+  "linkPlus-associationSingle-transmitButton":"",
+  "linkPlus-associationSingle-eslCodeInvalidPattern":"",
+  "linkPlus-associationSingle-nfcTagIsNotValidEslCode":"",
+  "linkPlus-associationSingle-eslCodeFieldEmpty":"",
+  "linkPlus-associationSingle-articleCodeFieldEmpty":""
 }
