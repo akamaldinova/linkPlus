@@ -30,7 +30,7 @@
     "linkPlus-setupServer-errorRetrievingDomainName": "Il server non risponde",
     "linkPlus-setupServer-errorUrlEmpty": "Campo URL vuoto, impossibile continuare",
     "linkPlus-setupServer-errorPortEmpty": "Campo Porta vuoto, impossibile continuare",
-    "linkPlus-setupServer-errorDomainEmpty": "Campo Dominio vuoto, impossibile continuare",
+    "linkPlus-setupServer-errorDomainEmpty": "Campo dominio vuoto, impossibile continuare",
     "linkPlus-setupQrCode-displayTitle": "Configurazione tramite QR Code",
     "linkPlus-setupQrCode-blockTitle": "Configurazione tramite QR Code",
     "linkPlus-setupQrCode-btnQrCodeScan": "Scansione codice",
