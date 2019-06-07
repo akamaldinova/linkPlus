@@ -15,6 +15,7 @@
   "linkPlus-index-eslCheck": "Check Esl",
   "linkPlus-index-serverCheck": "Server status",
   "linkPlus-index-switchPage": "Switch page",
+  "linkPlus-index-swapEsl": "Swap ESL",
   "linkPlus-index-queueAssociationDissociation": "$1 association / dissociation",
   "linkPlus-index-transmittedMediasQueue": "Transmitted",
   "linkPlus-setupServer-displayTitle": "Link Plus",
@@ -56,6 +57,7 @@
   "linkPlus-setupParameters-switchPageDuration": "Duration",
   "linkPlus-setupParameters-switchPageDurationMinute": "{{plural:$1|minute|minutes}}",
   "linkPlus-setupParameters-systemStatus": "System status",
+  "linkPlus-setupParameters-swapEsl": "Swap ESL",
   "linkPlus-setupParameters-eslStatus": "Esl status",
   "linkPlus-setupParameters-currentLanguage": "English",
   "linkPlus-setupLanguages-displayTitle": "Language",
@@ -132,5 +134,15 @@
   "linkPlus-eslCheck-error-message-requestFailedOnServerSide": "Request failed on server side",
   "linkPlus-eslCheck-error-message-unexpectedError": "Unexpected error",
   "linkPlus-eslCheck-nfcTagIsNotValidEslCode":"NFC tag is not a valid ESL code.",
-  "linkPlus-eslCheck-eslCodeInvalidPattern":"ESL code is not valid for your installation!"
+  "linkPlus-eslCheck-eslCodeInvalidPattern":"ESL code is not valid for your installation!",
+  "linkPlus-swapEsl-displayTitle": "Swap ESL",
+  "linkPlus-swapEsl-eslCode1": "ESL code",
+  "linkPlus-swapEsl-eslCode2": "ESL code",
+  "linkPlus-swapEsl-submit": "Transmit",
+  "linkPlus-swapEsl-eslCodeFieldEmpty": "Alert! ESL code is empty, fill it now!",
+  "linkPlus-swapEsl-eslTypeAreMismatching": "Alert! ESL type are mismatching!",
+  "linkPlus-swapEsl-eslCodeAreIdentical": "Alert! ESL code are identical!",
+  "linkPlus-swapEsl-errorWhileRetrievingMediaInfo": "Alert! Error while retrieving ESL info",
+  "linkPlus-swapEsl-errorMediaNotFound": "Alert! Error ESL not found in Jeegy S3",
+  "linkPlus-swapEsl-nfcTagIsNotValidEslCode": "Error: Invalid NFC tag"
 }

@@ -15,6 +15,7 @@
     "linkPlus-index-eslCheck": "Verifica ESL",
     "linkPlus-index-serverCheck": "Stato del server",
     "linkPlus-index-switchPage": "Cambio pagina",
+	"linkPlus-index-swapEsl": "",
     "linkPlus-index-queueAssociationDissociation": "$1 associazione / disassociazione",
     "linkPlus-index-transmittedMediasQueue": "Trasmesso",
     "linkPlus-setupServer-displayTitle": "Link Plus",
@@ -56,6 +57,7 @@
     "linkPlus-setupParameters-switchPageDuration": "Durata",
     "linkPlus-setupParameters-switchPageDurationMinute": "{{plural:$1|minuto|minuti}}",
     "linkPlus-setupParameters-systemStatus": "Stato sistema",
+	"linkPlus-setupParameters-swapEsl": "",
     "linkPlus-setupParameters-eslStatus": "Stato ESL",
     "linkPlus-setupParameters-currentLanguage": "Italiano",
     "linkPlus-setupLanguages-displayTitle": "Lingue",
@@ -132,5 +134,15 @@
     "linkPlus-eslCheck-error-message-requestFailedOnServerSide": "Richiesta fallita lato server",
     "linkPlus-eslCheck-error-message-unexpectedError": "Errore inatteso",
     "linkPlus-eslCheck-nfcTagIsNotValidEslCode": "Il tag NFC non è un codice ESL valido",
-    "linkPlus-eslCheck-eslCodeInvalidPattern": "Codice ESL non valido in questa installazione!"
+    "linkPlus-eslCheck-eslCodeInvalidPattern": "Codice ESL non valido in questa installazione!",
+	"linkPlus-swapEsl-displayTitle": "",
+	"linkPlus-swapEsl-eslCode1": "",
+	"linkPlus-swapEsl-eslCode2": "",
+	"linkPlus-swapEsl-submit": "",
+	"linkPlus-swapEsl-eslCodeFieldEmpty": "",
+	"linkPlus-swapEsl-eslTypeAreMismatching": "",
+	"linkPlus-swapEsl-eslCodeAreIdentical": "",
+	"linkPlus-swapEsl-errorWhileRetrievingMediaInfo": "",
+	"linkPlus-swapEsl-errorMediaNotFound": "",
+	"linkPlus-swapEsl-nfcTagIsNotValidEslCode": ""
 }

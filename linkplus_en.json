@@ -15,6 +15,7 @@
     "linkPlus-index-eslCheck": "Check Esl (From Bottom menu, text below icon, for accessing the ESL check page)",
     "linkPlus-index-serverCheck": "Server status (From Bottom menu, text below icon, for accessing the system status page)",
     "linkPlus-index-switchPage": "Switch page (From Bottom menu, text below icon, for accessing the switch screen page)",
+	"linkPlus-index-swapEsl": "Swap ESL (From Bottom menu, text below icon, for accessing the swap esl screen page",
     "linkPlus-index-queueAssociationDissociation": "$1 association / dissociation (From Nav area, display the medias count for pending associations and dissociation)",
     "linkPlus-index-transmittedMediasQueue": "Transmitted (From Nav area, display that transmission has been done for current association and/or pending associations/dissociations)",
     "linkPlus-setupServer-displayTitle": "Link Plus (From Server setup page: Title below SES-IMAGOTAG icon at the top of the page)",
@@ -56,6 +57,7 @@
     "linkPlus-setupParameters-switchPageDuration": "Duration (From Parameters setup page: If switch page feature enabled, show Duration x Minutes, here is the text Duration)",
     "linkPlus-setupParameters-switchPageDurationMinute": "{{plural:$1|minute|minutes}} (From Parameters setup page: If switch page feature enabled, show Duration x Minutes, here is the text minute with plural management)",
     "linkPlus-setupParameters-systemStatus": "System status (From Parameters setup page: enable or disable system status option)",
+	"linkPlus-setupParameters-swapEsl": "Swap ESL (From Parameters setup page: enable or disable swap esl option)",
     "linkPlus-setupParameters-eslStatus": "Esl status (From Parameters setup page: enable or disable esl status option)",
     "linkPlus-setupParameters-currentLanguage": "English (From Parameters setup page: current selected language in that language, if file en_GB then English, if file fr_FR then Français)",
     "linkPlus-setupLanguages-displayTitle": "Languages (From Language setup page: Title below SES-IMAGOTAG icon at the top of the page)",
@@ -132,5 +134,15 @@
     "linkPlus-eslCheck-error-message-requestFailedOnServerSide": "Request failed on server side (From Label Check page: Error shown when API request failed on server side)",
     "linkPlus-eslCheck-error-message-unexpectedError": "Unexpected error (From Label Check page: Error shown when unmanaged error arrived while making an API request)",
     "linkPlus-eslCheck-nfcTagIsNotValidEslCode": "NFC tag is not a valid ESL code. (From Label Check page: Event fire after using NFC function, is the NFC tag isn't an ESL)",
-    "linkPlus-eslCheck-eslCodeInvalidPattern": "ESL code is not valid for your installation! (From Label Check page: Text on alert popup if esl code do not match any pattern from setting)"
+    "linkPlus-eslCheck-eslCodeInvalidPattern": "ESL code is not valid for your installation! (From Label Check page: Text on alert popup if esl code do not match any pattern from setting)",
+	"linkPlus-swapEsl-displayTitle": "Swap ESL (From Swap ESL page: Title below SES-IMAGOTAG icon ath the top of the page)",
+	"linkPlus-swapEsl-eslCode1": "ESL Code (From Swap ESL page: Text over the input on top for scanning ESL code which is going to be unlinked)",
+	"linkPlus-swapEsl-eslCode2": "ESL Code (From Swap ESL page: Text over the input at the bottom for scanning ESL code which is going to be linked to the article from the ESL code on top)",
+	"linkPlus-swapEsl-submit": "Transmit (From Swap ESL page: Text on button for transmitting the command)",
+	"linkPlus-swapEsl-eslCodeFieldEmpty": "ESL code is empty, fill it now! (From Swap ESL page: Alert popup if one of the two inputs is empty)",
+	"linkPlus-swapEsl-eslTypeAreMismatching": "ESL code type are mismatching! (From Swap ESL page: Alert popup if ESL code aren't from the same kind of type)",
+	"linkPlus-swapEsl-eslCodeAreIdentical": "ESL code are identical! (From Swap ESL page: Alert popup if ESL code from both input are identical)",
+	"linkPlus-swapEsl-errorWhileRetrievingMediaInfo": "Error while retrieving ESL info (From Swap ESL page: Alert popup if application is unable to get a successfully reply from server)",
+	"linkPlus-swapEsl-errorMediaNotFound": "ESL not found (From Swap ESL page: Alert popup if ESL code is not found into server)",
+	"linkPlus-swapEsl-nfcTagIsNotValidEslCode": "Invalid NFC tag (From Swap ESL page: Alert popup if customer TAP a NFC tag which is not from SES-IMAGOTAG)"
 }

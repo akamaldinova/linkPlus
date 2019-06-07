@@ -15,6 +15,7 @@
     "linkPlus-index-eslCheck": "Status eticheta",
     "linkPlus-index-serverCheck": "Status server",
     "linkPlus-index-switchPage": "Schimbare pagina",
+	"linkPlus-index-swapEsl": "",
     "linkPlus-index-queueAssociationDissociation": "$1 asocieri / disocieri",
     "linkPlus-index-transmittedMediasQueue": "Transmise",
     "linkPlus-setupServer-displayTitle": "Link Plus",
@@ -56,6 +57,7 @@
     "linkPlus-setupParameters-switchPageDuration": "Durata",
     "linkPlus-setupParameters-switchPageDurationMinute": "{{plural:$1|minute|minutes}}",
     "linkPlus-setupParameters-systemStatus": "Status sistem",
+	"linkPlus-setupParameters-swapEsl": "",
     "linkPlus-setupParameters-eslStatus": "Status ESL",
     "linkPlus-setupParameters-currentLanguage": "Engleza",
     "linkPlus-setupLanguages-displayTitle": "Limbi",
@@ -132,5 +134,15 @@
     "linkPlus-eslCheck-error-message-requestFailedOnServerSide": "Request failed on server side",
     "linkPlus-eslCheck-error-message-unexpectedError": "Eroare",
     "linkPlus-eslCheck-nfcTagIsNotValidEslCode": "Codul NFC nu este un cod valid",
-    "linkPlus-eslCheck-eslCodeInvalidPattern": "Codul esl nu este valid"
+    "linkPlus-eslCheck-eslCodeInvalidPattern": "Codul esl nu este valid",
+	"linkPlus-swapEsl-displayTitle": "",
+	"linkPlus-swapEsl-eslCode1": "",
+	"linkPlus-swapEsl-eslCode2": "",
+	"linkPlus-swapEsl-submit": "",
+	"linkPlus-swapEsl-eslCodeFieldEmpty": "",
+	"linkPlus-swapEsl-eslTypeAreMismatching": "",
+	"linkPlus-swapEsl-eslCodeAreIdentical": "",
+	"linkPlus-swapEsl-errorWhileRetrievingMediaInfo": "",
+	"linkPlus-swapEsl-errorMediaNotFound": "",
+	"linkPlus-swapEsl-nfcTagIsNotValidEslCode": ""
 }

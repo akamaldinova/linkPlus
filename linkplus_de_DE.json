@@ -15,6 +15,7 @@
     "linkPlus-index-eslCheck": "",
     "linkPlus-index-serverCheck": "",
     "linkPlus-index-switchPage": "",
+	"linkPlus-index-swapEsl": "",
     "linkPlus-index-queueAssociationDissociation": "",
     "linkPlus-index-transmittedMediasQueue": "",
     "linkPlus-setupServer-displayTitle": "",
@@ -56,6 +57,7 @@
     "linkPlus-setupParameters-switchPageDuration": "Dauer",
     "linkPlus-setupParameters-switchPageDurationMinute": "{{plural:$1|Minute|Minuten}}",
     "linkPlus-setupParameters-systemStatus": "Systemstatus",
+	"linkPlus-setupParameters-swapEsl": "",
     "linkPlus-setupParameters-eslStatus": "",
     "linkPlus-setupParameters-currentLanguage": "",
     "linkPlus-setupLanguages-displayTitle": "",
@@ -132,5 +134,15 @@
     "linkPlus-eslCheck-error-message-requestFailedOnServerSide": "",
     "linkPlus-eslCheck-error-message-unexpectedError": "",
     "linkPlus-eslCheck-nfcTagIsNotValidEslCode": "",
-    "linkPlus-eslCheck-eslCodeInvalidPattern": ""
+    "linkPlus-eslCheck-eslCodeInvalidPattern": "",
+	"linkPlus-swapEsl-displayTitle": "",
+	"linkPlus-swapEsl-eslCode1": "",
+	"linkPlus-swapEsl-eslCode2": "",
+	"linkPlus-swapEsl-submit": "",
+	"linkPlus-swapEsl-eslCodeFieldEmpty": "",
+	"linkPlus-swapEsl-eslTypeAreMismatching": "",
+	"linkPlus-swapEsl-eslCodeAreIdentical": "",
+	"linkPlus-swapEsl-errorWhileRetrievingMediaInfo": "",
+	"linkPlus-swapEsl-errorMediaNotFound": "",
+	"linkPlus-swapEsl-nfcTagIsNotValidEslCode": ""
 }
