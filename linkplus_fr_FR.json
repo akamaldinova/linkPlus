@@ -45,6 +45,7 @@
     "linkPlus-setupQrCode-optionSwitchPageDuration": "Durée de changement de page",
     "linkPlus-setupQrCode-optionEslStatus": "Statut étiquette",
     "linkPlus-setupQrCode-optionSystemStatus": "Statut du système",
+    "linkPlus-setupQrCode-optionSwapEsl":"",
     "linkPlus-setupQrCode-optionLang": "Langue",
     "linkPlus-setupQrCode-setupFailure": "Pas de configuration trouvée",
     "linkPlus-setupQrCode-setupSuccess": "Récupération de la configuration avec succès",

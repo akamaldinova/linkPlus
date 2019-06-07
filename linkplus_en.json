@@ -45,6 +45,7 @@
     "linkPlus-setupQrCode-optionSwitchPageDuration": "Switch page duration (From QR Code setup page: Text display after scan for setting switch page duration in minutes)",
     "linkPlus-setupQrCode-optionEslStatus": "Esl status (From QR Code setup page: Text display after scan for enableing/disableing Esl status option)",
     "linkPlus-setupQrCode-optionSystemStatus": "System status (From QR Code setup page: Text display after scan for enableing/disableing system status option)",
+    "linkPlus-setupQrCode-optionSwapEsl":"Swap ESL (From QR Code setup page: Text display after scan for enableing/disableing swap ESL option)",
     "linkPlus-setupQrCode-optionLang": "Language (From QR Code setup page: Text display after scan for setting the lang of the application)",
     "linkPlus-setupQrCode-setupFailure": "No configuration found (From QR Code setup page: Text display after scan for no configuration code matching the code scanned)",
     "linkPlus-setupQrCode-setupSuccess": "Qr Code matching a configuration (From QR Code setup page: Text display after scan for configuration code matching the code scanned)",

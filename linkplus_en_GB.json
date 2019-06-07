@@ -45,6 +45,7 @@
     "linkPlus-setupQrCode-optionSwitchPageDuration": "Duration defined",
     "linkPlus-setupQrCode-optionEslStatus": "ESL status",
     "linkPlus-setupQrCode-optionSystemStatus": "System status",
+    "linkPlus-setupQrCode-optionSwapEsl":"",
     "linkPlus-setupQrCode-optionLang": "Language defined",
     "linkPlus-setupQrCode-setupFailure": "No configuration found",
     "linkPlus-setupQrCode-setupSuccess": "Configuration successfully load",

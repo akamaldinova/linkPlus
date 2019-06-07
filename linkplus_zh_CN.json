@@ -45,6 +45,7 @@
     "linkPlus-setupQrCode-optionSwitchPageDuration": "持续切换页面",
     "linkPlus-setupQrCode-optionEslStatus": "电子标签状态",
     "linkPlus-setupQrCode-optionSystemStatus": "系统状态",
+    "linkPlus-setupQrCode-optionSwapEsl":"",
     "linkPlus-setupQrCode-optionLang": "语言",
     "linkPlus-setupQrCode-setupFailure": "无设置创建",
     "linkPlus-setupQrCode-setupSuccess": "二维码匹配设置成功",
