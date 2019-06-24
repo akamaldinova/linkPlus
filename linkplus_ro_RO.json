@@ -16,6 +16,7 @@
     "linkPlus-index-serverCheck": "Status server",
     "linkPlus-index-switchPage": "Schimbare pagina",
 	"linkPlus-index-swapEsl": "",
+  "linkPlus-index-itemModification": "",
     "linkPlus-index-queueAssociationDissociation": "$1 asocieri / disocieri",
     "linkPlus-index-transmittedMediasQueue": "Transmise",
     "linkPlus-setupServer-displayTitle": "Link Plus",
@@ -59,6 +60,8 @@
     "linkPlus-setupParameters-switchPageDurationMinute": "{{plural:$1|minute|minutes}}",
     "linkPlus-setupParameters-systemStatus": "Status sistem",
 	"linkPlus-setupParameters-swapEsl": "",
+  "linkPlus-setupParameters-itemModification": "",
+  "linkPlus-setupParameters-itemModification-translation": "",
     "linkPlus-setupParameters-eslStatus": "Status ESL",
     "linkPlus-setupParameters-currentLanguage": "Engleza",
     "linkPlus-setupLanguages-displayTitle": "Limbi",
@@ -94,6 +97,8 @@
     "linkPlus-setupPassword-passwordDoNotMatch": "Parola incorecta",
     "linkPlus-setupPassword-passwordIncorrect": "Parola incorecta",
     "linkPlus-setupPassword-placeholderPasswordCheck": "Parola",
+  "linkPlus-setupItemModification-displayTitle": "",
+  "linkPlus-setupItemModification-submit": "",
     "linkPlus-setupAbout-displayTitle": "Despre",
     "linkPlus-setupAbout-softwareName": "Link Plus",
     "linkPlus-setupAbout-softwareVersionTitle": "Versiune",
@@ -145,5 +150,8 @@
 	"linkPlus-swapEsl-eslCodeAreIdentical": "",
 	"linkPlus-swapEsl-errorWhileRetrievingMediaInfo": "",
 	"linkPlus-swapEsl-errorMediaNotFound": "",
-	"linkPlus-swapEsl-nfcTagIsNotValidEslCode": ""
+	"linkPlus-swapEsl-nfcTagIsNotValidEslCode": "",
+  "linkPlus-itemModification-displayTitle": "",
+  "linkPlus-itemModification-eslCode": "",
+  "linkPlus-itemModification-button-transmit": ""
 }

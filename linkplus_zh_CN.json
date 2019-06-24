@@ -16,6 +16,7 @@
     "linkPlus-index-serverCheck": "服务器状态",
     "linkPlus-index-switchPage": "切换页面",
 	"linkPlus-index-swapEsl": "",
+  "linkPlus-index-itemModification": "",
     "linkPlus-index-queueAssociationDissociation": "$1 绑定/解绑",
     "linkPlus-index-transmittedMediasQueue": "传输",
     "linkPlus-setupServer-displayTitle": "Link Plus",
@@ -59,6 +60,8 @@
     "linkPlus-setupParameters-switchPageDurationMinute": "{{plural:$1|分钟|分钟}}",
     "linkPlus-setupParameters-systemStatus": "系统状态",
 	"linkPlus-setupParameters-swapEsl": "",
+  "linkPlus-setupParameters-itemModification": "",
+  "linkPlus-setupParameters-itemModification-translation": "",
     "linkPlus-setupParameters-eslStatus": "电子标签状态",
     "linkPlus-setupParameters-currentLanguage": "汉语",
     "linkPlus-setupLanguages-displayTitle": "语言",
@@ -94,6 +97,8 @@
     "linkPlus-setupPassword-passwordDoNotMatch": "密码不匹配",
     "linkPlus-setupPassword-passwordIncorrect": "密码不正确",
     "linkPlus-setupPassword-placeholderPasswordCheck": "密码",
+  "linkPlus-setupItemModification-displayTitle": "",
+  "linkPlus-setupItemModification-submit": "",
     "linkPlus-setupAbout-displayTitle": "关于",
     "linkPlus-setupAbout-softwareName": "Link Plus",
     "linkPlus-setupAbout-softwareVersionTitle": "版本",
@@ -145,5 +150,8 @@
 	"linkPlus-swapEsl-eslCodeAreIdentical": "",
 	"linkPlus-swapEsl-errorWhileRetrievingMediaInfo": "",
 	"linkPlus-swapEsl-errorMediaNotFound": "",
-	"linkPlus-swapEsl-nfcTagIsNotValidEslCode": ""
+	"linkPlus-swapEsl-nfcTagIsNotValidEslCode": "",
+  "linkPlus-itemModification-displayTitle": "",
+  "linkPlus-itemModification-eslCode": "",
+  "linkPlus-itemModification-button-transmit": ""
 }

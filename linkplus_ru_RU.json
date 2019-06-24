@@ -16,6 +16,7 @@
     "linkPlus-index-serverCheck": "",
     "linkPlus-index-switchPage": "",
 	"linkPlus-index-swapEsl": "",
+  "linkPlus-index-itemModification": "",
     "linkPlus-index-queueAssociationDissociation": "",
     "linkPlus-index-transmittedMediasQueue": "",
     "linkPlus-setupServer-displayTitle": "",
@@ -59,6 +60,8 @@
     "linkPlus-setupParameters-switchPageDurationMinute": "",
     "linkPlus-setupParameters-systemStatus": "",
 	"linkPlus-setupParameters-swapEsl": "",
+  "linkPlus-setupParameters-itemModification": "",
+  "linkPlus-setupParameters-itemModification-translation": "",
     "linkPlus-setupParameters-eslStatus": "",
     "linkPlus-setupParameters-currentLanguage": "",
     "linkPlus-setupLanguages-displayTitle": "",
@@ -94,6 +97,8 @@
     "linkPlus-setupPassword-passwordDoNotMatch": "",
     "linkPlus-setupPassword-passwordIncorrect": "",
     "linkPlus-setupPassword-placeholderPasswordCheck": "",
+  "linkPlus-setupItemModification-displayTitle": "",
+  "linkPlus-setupItemModification-submit": "",
     "linkPlus-setupAbout-displayTitle": "",
     "linkPlus-setupAbout-softwareName": "",
     "linkPlus-setupAbout-softwareVersionTitle": "",
@@ -145,5 +150,8 @@
 	"linkPlus-swapEsl-eslCodeAreIdentical": "",
 	"linkPlus-swapEsl-errorWhileRetrievingMediaInfo": "",
 	"linkPlus-swapEsl-errorMediaNotFound": "",
-	"linkPlus-swapEsl-nfcTagIsNotValidEslCode": ""
+	"linkPlus-swapEsl-nfcTagIsNotValidEslCode": "",
+  "linkPlus-itemModification-displayTitle": "",
+  "linkPlus-itemModification-eslCode": "",
+  "linkPlus-itemModification-button-transmit": ""
 }
