@@ -1,6 +1,6 @@
 {
-    "@metadata.authors[0]": "Jerome SICO",
     "@metadata.last-updated": "2019-03-12",
+    "@metadata.authors[0]": "Jerome SICO",
     "@metadata.locale": "en_GB",
     "@metadata.message-documentation": "linkplus_en.json",
     "@metadata.message-test-display": "display.json",
@@ -109,6 +109,9 @@
     "linkPlus-setupAbout-companyWebsiteTitle": "Company website",
     "linkPlus-setupAbout-companyWebsiteValue": "www.ses-imagotag.com",
     "linkPlus-ajaxRequest-errorNoServerResponse": "No server response, check parameters again",
+    "linkPlus-global-ajaxRequest-configByFile-errorWrongDomain": "",
+    "linkPlus-global-ajaxRequest-configByFile-errorTimeoutOrUrl": "",
+    "linkPlus-global-ajaxRequest-configByFile-errorWrongApiKey": "",
     "linkPlus-global-scanbarcode": "Scan a barcode",
     "linkPlus-global-scanFailure": "Scan failed",
     "linkPlus-associationSingle-displayTitle": "Link plus",
