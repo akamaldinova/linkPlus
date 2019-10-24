@@ -50,6 +50,8 @@
     "linkPlus-setupQrCode-optionItemModification": "アイテム編集",
     "linkPlus-setupQrCode-optionItemModification-translation": "項目表示の編集",
     "linkPlus-setupQrCode-optionItemModification-translation-quantity": "$1 {{plural:$1|field|fields}}",
+    "linkPlus-setupQrCode-optionItemModificationInternalId" : "",
+    "linkPlus-setupQrCode-optionItemFinder": "",
     "linkPlus-setupQrCode-optionLang": "言語設定",
     "linkPlus-setupQrCode-setupFailure": "設定が見つかりません",
     "linkPlus-setupQrCode-setupSuccess": "設定のダウンロード完成",
@@ -66,6 +68,7 @@
     "linkPlus-setupParameters-itemModification": "アイテム編集",
     "linkPlus-setupParameters-itemModification-translation": "翻訳",
     "linkPlus-setupParameters-eslStatus": "ESL状態",
+    "linkPlus-setupParameters-itemFinder": "",
     "linkPlus-setupParameters-currentLanguage": "English",
     "linkPlus-setupLanguages-displayTitle": "言語",
     "linkPlus-setupLanguages-languageTitle": "言語",
@@ -159,5 +162,10 @@
     "linkPlus-swapEsl-nfcTagIsNotValidEslCode": "無効なNFC",
     "linkPlus-itemModification-displayTitle": "アイテム編集",
     "linkPlus-itemModification-eslCode": "ESLコード",
-    "linkPlus-itemModification-button-transmit": "送信"
+    "linkPlus-itemModification-button-transmit": "送信",
+    "linkPlus-itemModification-noItemFound": "",
+    "linkPlus-itemFinder-displayTitle": "",
+    "linkPlus-itemFinder-eslCodeText": "",
+    "linkPlus-itemFinder-idText": "",
+    "linkPlus-itemFinder-priceText": ""
 }

@@ -50,6 +50,8 @@
   "linkPlus-setupQrCode-optionItemModification": "Item modification",
   "linkPlus-setupQrCode-optionItemModification-translation": "Item modification translation",
   "linkPlus-setupQrCode-optionItemModification-translation-quantity": "$1 {{plural:$1|field|fields}} translated",
+  "linkPlus-setupQrCode-optionItemModificationInternalId" : "Internal ID",
+  "linkPlus-setupQrCode-optionItemFinder": "Item Finder",
   "linkPlus-setupQrCode-optionLang": "Language",
   "linkPlus-setupQrCode-setupFailure": "No configuration found",
   "linkPlus-setupQrCode-setupSuccess": "Qr Code matching a configuration",
@@ -65,7 +67,9 @@
   "linkPlus-setupParameters-swapEsl": "Swap ESL",
   "linkPlus-setupParameters-itemModification": "Item modification",
   "linkPlus-setupParameters-itemModification-translation": "Translations",
+  "linkPlus-setupParameters-itemModification-internalId": "Internal Id",
   "linkPlus-setupParameters-eslStatus": "Esl status",
+  "linkPlus-setupParameters-itemFinder": "Item finder",
   "linkPlus-setupParameters-currentLanguage": "English",
   "linkPlus-setupLanguages-displayTitle": "Language",
   "linkPlus-setupLanguages-languageTitle": "Language",
@@ -159,5 +163,11 @@
   "linkPlus-swapEsl-nfcTagIsNotValidEslCode": "Error: Invalid NFC tag",
   "linkPlus-itemModification-displayTitle": "Item modification",
   "linkPlus-itemModification-eslCode": "Code étiquette",
-  "linkPlus-itemModification-button-transmit": "Push to server"
+  "linkPlus-itemModification-button-transmit": "Push to server",
+  "linkPlus-itemModification-itemId": "Item id:",
+  "linkPlus-itemModification-noItemFound": "No Item Found",
+  "linkPlus-itemFinder-displayTitle": "Item finder",
+  "linkPlus-itemFinder-eslCodeText": "Code étiquette",
+  "linkPlus-itemFinder-idText": "id: ",
+  "linkPlus-itemFinder-priceText": "Prix: "
 }

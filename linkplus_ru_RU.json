@@ -50,6 +50,8 @@
   "linkPlus-setupQrCode-optionItemModification": "",
   "linkPlus-setupQrCode-optionItemModification-translation": "",
   "linkPlus-setupQrCode-optionItemModification-translation-quantity": "",
+  "linkPlus-setupQrCode-optionItemModificationInternalId" : "",
+  "linkPlus-setupQrCode-optionItemFinder": "",
   "linkPlus-setupQrCode-optionLang": "",
   "linkPlus-setupQrCode-setupFailure": "",
   "linkPlus-setupQrCode-setupSuccess": "",
@@ -66,6 +68,7 @@
   "linkPlus-setupParameters-itemModification": "",
   "linkPlus-setupParameters-itemModification-translation": "",
   "linkPlus-setupParameters-eslStatus": "",
+  "linkPlus-setupParameters-itemFinder": "",
   "linkPlus-setupParameters-currentLanguage": "",
   "linkPlus-setupLanguages-displayTitle": "",
   "linkPlus-setupLanguages-languageTitle": "",
@@ -159,5 +162,10 @@
   "linkPlus-swapEsl-nfcTagIsNotValidEslCode": "",
   "linkPlus-itemModification-displayTitle": "",
   "linkPlus-itemModification-eslCode": "",
-  "linkPlus-itemModification-button-transmit": ""
+  "linkPlus-itemModification-button-transmit": "",
+  "linkPlus-itemModification-noItemFound": "",
+  "linkPlus-itemFinder-displayTitle": "",
+  "linkPlus-itemFinder-eslCodeText": "",
+  "linkPlus-itemFinder-idText": "",
+  "linkPlus-itemFinder-priceText": ""
 }

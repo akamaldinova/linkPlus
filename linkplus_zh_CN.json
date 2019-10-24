@@ -50,6 +50,8 @@
     "linkPlus-setupQrCode-optionItemModification": "编辑商品信息",
     "linkPlus-setupQrCode-optionItemModification-translation": "编辑商品信息翻译",
     "linkPlus-setupQrCode-optionItemModification-translation-quantity": "编辑商品信息翻译: 4个字段",
+    "linkPlus-setupQrCode-optionItemModificationInternalId" : "",
+    "linkPlus-setupQrCode-optionItemFinder": "",
     "linkPlus-setupQrCode-optionLang": "语言",
     "linkPlus-setupQrCode-setupFailure": "无设置创建",
     "linkPlus-setupQrCode-setupSuccess": "二维码匹配设置成功",
@@ -66,6 +68,7 @@
     "linkPlus-setupParameters-itemModification": "编辑商品信息",
     "linkPlus-setupParameters-itemModification-translation": "翻译",
     "linkPlus-setupParameters-eslStatus": "电子标签状态",
+    "linkPlus-setupParameters-itemFinder": "",
     "linkPlus-setupParameters-currentLanguage": "汉语",
     "linkPlus-setupLanguages-displayTitle": "语言",
     "linkPlus-setupLanguages-languageTitle": "语言",
@@ -159,5 +162,10 @@
     "linkPlus-swapEsl-nfcTagIsNotValidEslCode": "错误的NFC tag",
     "linkPlus-itemModification-displayTitle": "编辑商品信息",
     "linkPlus-itemModification-eslCode": "ESL code",
-    "linkPlus-itemModification-button-transmit": "储存至主机"
+    "linkPlus-itemModification-button-transmit": "储存至主机",
+    "linkPlus-itemModification-noItemFound": "",
+    "linkPlus-itemFinder-displayTitle": "",
+    "linkPlus-itemFinder-eslCodeText": "",
+    "linkPlus-itemFinder-idText": "",
+    "linkPlus-itemFinder-priceText": ""
 }

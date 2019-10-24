@@ -50,6 +50,8 @@
     "linkPlus-setupQrCode-optionItemModification": "아이템 수정",
     "linkPlus-setupQrCode-optionItemModification-translation": "항목 표시 편집",
     "linkPlus-setupQrCode-optionItemModification-translation-quantity": "$1 {{plural:$1|field|fields}}",
+    "linkPlus-setupQrCode-optionItemModificationInternalId" : "",
+    "linkPlus-setupQrCode-optionItemFinder": "",
     "linkPlus-setupQrCode-optionLang": "언어설정",
     "linkPlus-setupQrCode-setupFailure": "구성 요소를 찾을 수 없음",
     "linkPlus-setupQrCode-setupSuccess": "설정을 다운로드하였습니다",
@@ -66,6 +68,7 @@
     "linkPlus-setupParameters-itemModification": "아이템 수정",
     "linkPlus-setupParameters-itemModification-translation": "번역",
     "linkPlus-setupParameters-eslStatus": "ESL 상태",
+    "linkPlus-setupParameters-itemFinder": "",
     "linkPlus-setupParameters-currentLanguage": "한국어",
     "linkPlus-setupLanguages-displayTitle": "언어",
     "linkPlus-setupLanguages-languageTitle": "언어",
@@ -159,5 +162,10 @@
     "linkPlus-swapEsl-nfcTagIsNotValidEslCode": "NFC Tag 무효",
     "linkPlus-itemModification-displayTitle": "아이템 수정",
     "linkPlus-itemModification-eslCode": "ESL코드",
-    "linkPlus-itemModification-button-transmit": "제출"
+    "linkPlus-itemModification-button-transmit": "제출",
+    "linkPlus-itemModification-noItemFound": "",
+    "linkPlus-itemFinder-displayTitle": "",
+    "linkPlus-itemFinder-eslCodeText": "",
+    "linkPlus-itemFinder-idText": "",
+    "linkPlus-itemFinder-priceText": ""
 }

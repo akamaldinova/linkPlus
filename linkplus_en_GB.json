@@ -50,6 +50,8 @@
     "linkPlus-setupQrCode-optionItemModification": "Item modification",
     "linkPlus-setupQrCode-optionItemModification-translation": "Translation of fields",
     "linkPlus-setupQrCode-optionItemModification-translation-quantity": "$1 {{plural:$1|field|fields}}",
+    "linkPlus-setupQrCode-optionItemModificationInternalId" : "",
+    "linkPlus-setupQrCode-optionItemFinder": "",
     "linkPlus-setupQrCode-optionLang": "Language defined",
     "linkPlus-setupQrCode-setupFailure": "No configuration found",
     "linkPlus-setupQrCode-setupSuccess": "Configuration successfully load",
@@ -66,6 +68,7 @@
     "linkPlus-setupParameters-itemModification": "Item modification",
     "linkPlus-setupParameters-itemModification-translation": "Translations",
     "linkPlus-setupParameters-eslStatus": "ESL status",
+    "linkPlus-setupParameters-itemFinder": "",
     "linkPlus-setupParameters-currentLanguage": "English",
     "linkPlus-setupLanguages-displayTitle": "Languages",
     "linkPlus-setupLanguages-languageTitle": "Language",
@@ -159,5 +162,10 @@
     "linkPlus-swapEsl-nfcTagIsNotValidEslCode": "Invalid NFC tag",
     "linkPlus-itemModification-displayTitle": "Item modification",
     "linkPlus-itemModification-eslCode": "ESL code",
-    "linkPlus-itemModification-button-transmit": "Submit"
+    "linkPlus-itemModification-button-transmit": "Submit",
+    "linkPlus-itemModification-noItemFound": "",
+    "linkPlus-itemFinder-displayTitle": "",
+    "linkPlus-itemFinder-eslCodeText": "",
+    "linkPlus-itemFinder-idText": "",
+    "linkPlus-itemFinder-priceText": ""
 }

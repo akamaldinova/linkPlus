@@ -50,6 +50,8 @@
     "linkPlus-setupQrCode-optionItemModification": "項目修改",
     "linkPlus-setupQrCode-optionItemModification-translation": "轉換欄位名稱顯示",
     "linkPlus-setupQrCode-optionItemModification-translation-quantity": "$1 {{plural:$1|field|fields}}",
+    "linkPlus-setupQrCode-optionItemModificationInternalId" : "",
+    "linkPlus-setupQrCode-optionItemFinder": "",
     "linkPlus-setupQrCode-optionLang": "語言設定",
     "linkPlus-setupQrCode-setupFailure": "找不到配置",
     "linkPlus-setupQrCode-setupSuccess": "配置已成功下載",
@@ -66,6 +68,7 @@
     "linkPlus-setupParameters-itemModification": "項目修改",
     "linkPlus-setupParameters-itemModification-translation": "翻譯",
     "linkPlus-setupParameters-eslStatus": "標籤狀態",
+    "linkPlus-setupParameters-itemFinder": "",
     "linkPlus-setupParameters-currentLanguage": "English",
     "linkPlus-setupLanguages-displayTitle": "語言",
     "linkPlus-setupLanguages-languageTitle": "語言",
@@ -159,5 +162,10 @@
     "linkPlus-swapEsl-nfcTagIsNotValidEslCode": "無效的NFC",
     "linkPlus-itemModification-displayTitle": "項目修改",
     "linkPlus-itemModification-eslCode": "標籤代碼",
-    "linkPlus-itemModification-button-transmit": "提交"
+    "linkPlus-itemModification-button-transmit": "提交",
+    "linkPlus-itemModification-noItemFound": "",
+    "linkPlus-itemFinder-displayTitle": "",
+    "linkPlus-itemFinder-eslCodeText": "",
+    "linkPlus-itemFinder-idText": "",
+    "linkPlus-itemFinder-priceText": ""
 }
