@@ -202,8 +202,9 @@
   "linkPlus-itemModification-itemId": "",
   "linkPlus-itemModification-noItemFound": "",
   "linkPlus-itemModification-scenario-smart": "",
+  "linkPlus-itemModification-errorDuringConditionEvaluation": "",
   "linkPlus-itemFinder-displayTitle": "",
   "linkPlus-itemFinder-eslCodeText": "",
   "linkPlus-itemFinder-idText": "",
-  "linkPlus-itemFinder-priceText": "",
+  "linkPlus-itemFinder-priceText": ""
 }

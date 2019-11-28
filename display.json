@@ -202,6 +202,7 @@
   "linkPlus-itemModification-itemId": "Item id:",
   "linkPlus-itemModification-noItemFound": "No Item Found",
   "linkPlus-itemModification-scenario-smart": "Smart Scenario : ",
+  "linkPlus-itemModification-errorDuringConditionEvaluation": "Error while evaluating scenario display condition",
   "linkPlus-itemFinder-displayTitle": "Item finder",
   "linkPlus-itemFinder-eslCodeText": "Code étiquette",
   "linkPlus-itemFinder-idText": "id: ",
