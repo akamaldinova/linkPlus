@@ -201,6 +201,7 @@
     "linkPlus-itemModification-itemId": "Id produit :",
     "linkPlus-itemModification-noItemFound": "Aucun produit trouvé",
     "linkPlus-itemModification-scenario-smart": "Smart Scenario :",
+    "linkPlus-itemModification-errorDuringConditionEvaluation": "",
     "linkPlus-itemFinder-displayTitle": "Item finder",
     "linkPlus-itemFinder-eslCodeText": "Code étiquette/produit",
     "linkPlus-itemFinder-idText": "id :",

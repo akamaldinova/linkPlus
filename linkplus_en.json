@@ -201,6 +201,7 @@
   "linkPlus-itemModification-button-transmit": "Push to server (From Item modification page: Text on button for pushing new fields value to server)",
   "linkPlus-itemModification-itemId": "Item id: (From Item modification page: Text before item id of media scanned.)",
   "linkPlus-itemModification-scenario-smart": "Smart Scenario : (From Item modification page: Text before the matching scenario name selected)",
+  "linkPlus-itemModification-errorDuringConditionEvaluation": "Error while evaluating scenario display condition (From Item modification page: Error message if the Smart Field display condition wasn't correctly typed)",
   "linkPlus-itemFinder-displayTitle": "Item Finder (From Item Finder page: Title below SES-IMAGOTAG icon ath the top of the page)",
   "linkPlus-itemFinder-eslCodeText": "ESL Code (From Item Finder page:  Text over the input for scanning ESL code or article code)",
   "linkPlus-itemFinder-idText": "id: (From Item Finder page: Text at the left of item id. Ex: 'id:88888888'. Add a space at the right if needed)",

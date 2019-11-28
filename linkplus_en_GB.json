@@ -201,6 +201,7 @@
     "linkPlus-itemModification-itemId": "Item id:",
     "linkPlus-itemModification-noItemFound": "No item found",
     "linkPlus-itemModification-scenario-smart": "Smart scenario:",
+    "linkPlus-itemModification-errorDuringConditionEvaluation": "",
     "linkPlus-itemFinder-displayTitle": "Item finder",
     "linkPlus-itemFinder-eslCodeText": "ESL code",
     "linkPlus-itemFinder-idText": "id:",
