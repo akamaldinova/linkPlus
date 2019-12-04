@@ -55,6 +55,8 @@
   "linkPlus-setupQrCode-optionItemModification-translation-quantity": "",
   "linkPlus-setupQrCode-optionItemModificationInternalId" : "",
   "linkPlus-setupQrCode-optionItemFinder": "",
+  "linkPlus-setupQrCode-optionSmartItemModification": "",
+  "linkPlus-setupQrCode-optionSmartItemModification-scenarios-quantity": "",
   "linkPlus-setupQrCode-optionLang": "Lingua",
   "linkPlus-setupQrCode-setupFailure": "Nessuna configurazione trovata",
   "linkPlus-setupQrCode-setupSuccess": "Il QR Code corrisponde a una configurazione",

@@ -55,6 +55,8 @@
   "linkPlus-setupQrCode-optionItemModification-translation-quantity": "$1 {{plural:$1|field|fields}} translated (From QR Code setup page: Text display after scan for setting up some translation for the item modification option itself [right side of the text, in place of values list eg: Item modification translation: 4 fields])",
   "linkPlus-setupQrCode-optionItemModificationInternalId" : "Internal ID (From QR Code setup page: Text display after scan for enableing/disableing item modification internal id option)\"",
   "linkPlus-setupQrCode-optionItemFinder": "Item Finder (From QR Code setup page: Text display after scan for enableing/disableing item finder option)",
+  "linkPlus-setupQrCode-optionSmartItemModification": "Smart Item Modification (From QR Code setup page: Text display after scan for setting up some scenarios for the item modification option itself [left side of the text])",
+  "linkPlus-setupQrCode-optionSmartItemModification-scenarios-quantity": "$1 {{plural:$1|scenario|scenarios}} defined (From QR Code setup page: Text display after scan for setting up some scenarios for the item modification option itself [right side of the text, in place of values list eg: Smart Item Modification: 4 scenarios])",
   "linkPlus-setupQrCode-optionLang": "Language (From QR Code setup page: Text display after scan for setting the lang of the application)",
   "linkPlus-setupQrCode-setupFailure": "No configuration found (From QR Code setup page: Text display after scan for no configuration code matching the code scanned)",
   "linkPlus-setupQrCode-setupSuccess": "Qr Code matching a configuration (From QR Code setup page: Text display after scan for configuration code matching the code scanned)",

@@ -55,6 +55,8 @@
   "linkPlus-setupQrCode-optionItemModification-translation-quantity": "$1 {{plural:$1|field|fields}} translated",
   "linkPlus-setupQrCode-optionItemModificationInternalId" : "Internal ID",
   "linkPlus-setupQrCode-optionItemFinder": "Item Finder",
+  "linkPlus-setupQrCode-optionSmartItemModification": "Smart Item Modification",
+  "linkPlus-setupQrCode-optionSmartItemModification-scenarios-quantity": "$1 {{plural:$1|scenario|scenarios}} defined",
   "linkPlus-setupQrCode-optionLang": "Language",
   "linkPlus-setupQrCode-setupFailure": "No configuration found",
   "linkPlus-setupQrCode-setupSuccess": "Qr Code matching a configuration",

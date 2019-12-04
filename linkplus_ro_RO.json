@@ -55,6 +55,8 @@
   "linkPlus-setupQrCode-optionItemModification-translation-quantity": "",
   "linkPlus-setupQrCode-optionItemModificationInternalId" : "",
   "linkPlus-setupQrCode-optionItemFinder": "",
+  "linkPlus-setupQrCode-optionSmartItemModification": "",
+  "linkPlus-setupQrCode-optionSmartItemModification-scenarios-quantity": "",
   "linkPlus-setupQrCode-optionLang": "Limba",
   "linkPlus-setupQrCode-setupFailure": "Nu a fost gasita configuratia",
   "linkPlus-setupQrCode-setupSuccess": "Configuratie incarcata cu succes",

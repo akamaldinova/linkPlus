@@ -55,6 +55,8 @@
     "linkPlus-setupQrCode-optionItemModification-translation-quantity": "编辑商品信息翻译: 4个字段",
     "linkPlus-setupQrCode-optionItemModificationInternalId" : "",
     "linkPlus-setupQrCode-optionItemFinder": "",
+    "linkPlus-setupQrCode-optionSmartItemModification": "",
+    "linkPlus-setupQrCode-optionSmartItemModification-scenarios-quantity": "",
     "linkPlus-setupQrCode-optionLang": "语言",
     "linkPlus-setupQrCode-setupFailure": "无设置创建",
     "linkPlus-setupQrCode-setupSuccess": "二维码匹配设置成功",

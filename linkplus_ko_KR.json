@@ -55,6 +55,8 @@
     "linkPlus-setupQrCode-optionItemModification-translation-quantity": "$1 {{plural:$1|field|fields}}",
     "linkPlus-setupQrCode-optionItemModificationInternalId" : "",
     "linkPlus-setupQrCode-optionItemFinder": "",
+    "linkPlus-setupQrCode-optionSmartItemModification": "",
+    "linkPlus-setupQrCode-optionSmartItemModification-scenarios-quantity": "",
     "linkPlus-setupQrCode-optionLang": "언어설정",
     "linkPlus-setupQrCode-setupFailure": "구성 요소를 찾을 수 없음",
     "linkPlus-setupQrCode-setupSuccess": "설정을 다운로드하였습니다",

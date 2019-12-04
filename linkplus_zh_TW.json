@@ -55,6 +55,8 @@
     "linkPlus-setupQrCode-optionItemModification-translation-quantity": "$1 {{plural:$1|field|fields}}",
     "linkPlus-setupQrCode-optionItemModificationInternalId" : "",
     "linkPlus-setupQrCode-optionItemFinder": "",
+    "linkPlus-setupQrCode-optionSmartItemModification": "",
+    "linkPlus-setupQrCode-optionSmartItemModification-scenarios-quantity": "",
     "linkPlus-setupQrCode-optionLang": "語言設定",
     "linkPlus-setupQrCode-setupFailure": "找不到配置",
     "linkPlus-setupQrCode-setupSuccess": "配置已成功下載",
