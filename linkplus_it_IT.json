@@ -97,6 +97,7 @@
   "linkPlus-setupApiKey-cardTitle": "Chiave dominio Cloud",
   "linkPlus-setupApiKey-placeholder": "API KEY - solo per Cloud",
   "linkPlus-setupApiKey-emptyKey": "Il campo è vuoto",
+  "linkPlus-setupApiKey-apiRights": "",
   "linkPlus-setupPassword-displayTitle": "Password",
   "linkPlus-setupPassword-enableTitle": "Protezione Password",
   "linkPlus-setupPassword-enablePassword": "Abilitare protezione?",

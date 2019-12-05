@@ -97,6 +97,7 @@
     "linkPlus-setupApiKey-cardTitle": "云域名的密钥",
     "linkPlus-setupApiKey-placeholder": "API Key（仅限云）",
     "linkPlus-setupApiKey-emptyKey": "该栏位为空",
+    "linkPlus-setupApiKey-apiRights": "",
     "linkPlus-setupPassword-displayTitle": "密码",
     "linkPlus-setupPassword-enableTitle": "密码保护",
     "linkPlus-setupPassword-enablePassword": "授权的保护",

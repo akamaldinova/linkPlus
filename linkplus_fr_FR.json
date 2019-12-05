@@ -97,6 +97,7 @@
     "linkPlus-setupApiKey-cardTitle": "Clé du domaine",
     "linkPlus-setupApiKey-placeholder": "Clé API - Cloud seulement",
     "linkPlus-setupApiKey-emptyKey": "Le champ est vide",
+    "linkPlus-setupApiKey-apiRights": "Droits API",
     "linkPlus-setupPassword-displayTitle": "Mot de passe",
     "linkPlus-setupPassword-enableTitle": "Application protégée par mot de passe",
     "linkPlus-setupPassword-enablePassword": "Activer la protection ?",

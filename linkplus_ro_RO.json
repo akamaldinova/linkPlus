@@ -97,6 +97,7 @@
   "linkPlus-setupApiKey-cardTitle": "Cloud's domain key",
   "linkPlus-setupApiKey-placeholder": "API Key",
   "linkPlus-setupApiKey-emptyKey": "API Key is empty",
+  "linkPlus-setupApiKey-apiRights": "",
   "linkPlus-setupPassword-displayTitle": "Parola",
   "linkPlus-setupPassword-enableTitle": "Protejare cu parola",
   "linkPlus-setupPassword-enablePassword": "Activare protectie",

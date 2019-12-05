@@ -97,6 +97,7 @@
     "linkPlus-setupApiKey-cardTitle": "クラウドのドメインキー",
     "linkPlus-setupApiKey-placeholder": "API キー",
     "linkPlus-setupApiKey-emptyKey": "API キーは空欄",
+    "linkPlus-setupApiKey-apiRights": "",
     "linkPlus-setupPassword-displayTitle": "パスワード",
     "linkPlus-setupPassword-enableTitle": "パスワードの暗号化",
     "linkPlus-setupPassword-enablePassword": "暗号化の適用",
