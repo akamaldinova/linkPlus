@@ -158,6 +158,11 @@
   "linkPlus-global-ajaxRequest-configByFile-errorWrongDomain": "Error: Wrong domain set.",
   "linkPlus-global-ajaxRequest-configByFile-errorTimeoutOrUrl": "Error: Host is not reachable.",
   "linkPlus-global-ajaxRequest-configByFile-errorWrongApiKey": "Error: API Key is not valid for that domain.",
+  "linkPlus-global-ajaxRequest-response-status-errorWrongDomain": "Error: Wrong domain set.",
+  "linkPlus-global-ajaxRequest-response-status-errorTimeoutOrUrl": "Error: Host is not reachable.",
+  "linkPlus-global-ajaxRequest-response-status-errorWrongApiKey": "Error: API Key is not valid for that domain.",
+  "linkPlus-global-ajaxRequest-status-error": "Error: API call return in error.",
+  "linkPlus-global-ajaxRequest-response-unmanaged": "Error: API call return with unmanaged server error.",
   "linkPlus-global-scanbarcode": "Scan a barcode",
   "linkPlus-global-scanFailure": "Scanning failed: ",
   "linkPlus-associationSingle-displayTitle":"Link Plus",
@@ -220,5 +225,7 @@
   "linkPlus-multiItemManagment-idText": "Id: ",
   "linkPlus-multiItemManagment-priceText": "Price: ",
   "linkPlus-multiItemManagment-nfcTagIsNotValidEslCode": "Error: Invalid NFC tag",
-  "linkPlus-multiItemManagment-sendUpdate": "Transmit"
+  "linkPlus-multiItemManagment-sendUpdate": "Transmit",
+  "linkPlus-multiItemManagement-error-noMediaFound": "No media found",
+  "linkPlus-multiItemManagement-error": "API com error"
 }

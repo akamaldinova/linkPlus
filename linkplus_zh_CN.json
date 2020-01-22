@@ -156,6 +156,11 @@
     "linkPlus-global-ajaxRequest-configByFile-errorWrongDomain": "错误的domain",
     "linkPlus-global-ajaxRequest-configByFile-errorTimeoutOrUrl": "无法连结host",
     "linkPlus-global-ajaxRequest-configByFile-errorWrongApiKey": "API Key错误",
+    "linkPlus-global-ajaxRequest-response-status-errorWrongDomain": "",
+    "linkPlus-global-ajaxRequest-response-status-errorTimeoutOrUrl": "",
+    "linkPlus-global-ajaxRequest-response-status-errorWrongApiKey": "",
+    "linkPlus-global-ajaxRequest-status-error": "",
+    "linkPlus-global-ajaxRequest-response-unmanaged": "",
     "linkPlus-global-scanbarcode": "扫描条码",
     "linkPlus-global-scanFailure": "扫描失败",
     "linkPlus-associationSingle-displayTitle": "Link Plus",
@@ -211,5 +216,14 @@
     "linkPlus-itemFinder-displayTitle": "",
     "linkPlus-itemFinder-eslCodeText": "",
     "linkPlus-itemFinder-idText": "",
-    "linkPlus-itemFinder-priceText": ""
+    "linkPlus-itemFinder-priceText": "",
+    "linkPlus-multiItemManagment-displayTitle": "",
+    "linkPlus-multiItemManagment-eslCodeText": "",
+    "linkPlus-multiItemManagment-itemCodeText": "",
+    "linkPlus-multiItemManagment-idText": "",
+    "linkPlus-multiItemManagment-priceText": "",
+    "linkPlus-multiItemManagment-nfcTagIsNotValidEslCode": "",
+    "linkPlus-multiItemManagment-sendUpdate": "",
+    "linkPlus-multiItemManagement-error-noMediaFound": "",
+    "linkPlus-multiItemManagement-error": ""
 }

@@ -156,6 +156,11 @@
     "linkPlus-global-ajaxRequest-configByFile-errorWrongDomain": "錯誤：domain設定錯誤",
     "linkPlus-global-ajaxRequest-configByFile-errorTimeoutOrUrl": "錯誤：無法連結主機",
     "linkPlus-global-ajaxRequest-configByFile-errorWrongApiKey": "錯誤：無效的API Key",
+    "linkPlus-global-ajaxRequest-response-status-errorWrongDomain": "",
+    "linkPlus-global-ajaxRequest-response-status-errorTimeoutOrUrl": "",
+    "linkPlus-global-ajaxRequest-response-status-errorWrongApiKey": "",
+    "linkPlus-global-ajaxRequest-status-error": "",
+    "linkPlus-global-ajaxRequest-response-unmanaged": "",
     "linkPlus-global-scanbarcode": "掃描條碼",
     "linkPlus-global-scanFailure": "掃描失敗",
     "linkPlus-associationSingle-displayTitle": "Link plus",
@@ -211,5 +216,14 @@
     "linkPlus-itemFinder-displayTitle": "",
     "linkPlus-itemFinder-eslCodeText": "",
     "linkPlus-itemFinder-idText": "",
-    "linkPlus-itemFinder-priceText": ""
+    "linkPlus-itemFinder-priceText": "",
+    "linkPlus-multiItemManagment-displayTitle": "",
+    "linkPlus-multiItemManagment-eslCodeText": "",
+    "linkPlus-multiItemManagment-itemCodeText": "",
+    "linkPlus-multiItemManagment-idText": "",
+    "linkPlus-multiItemManagment-priceText": "",
+    "linkPlus-multiItemManagment-nfcTagIsNotValidEslCode": "",
+    "linkPlus-multiItemManagment-sendUpdate": "",
+    "linkPlus-multiItemManagement-error-noMediaFound": "",
+    "linkPlus-multiItemManagement-error": ""
 }

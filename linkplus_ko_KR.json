@@ -156,6 +156,11 @@
     "linkPlus-global-ajaxRequest-configByFile-errorWrongDomain": "오류 : 잘못된 domain 설정",
     "linkPlus-global-ajaxRequest-configByFile-errorTimeoutOrUrl": "오류 : 서버에 연결할 수 없음",
     "linkPlus-global-ajaxRequest-configByFile-errorWrongApiKey": "오류: 해당 domain에 대해 API Key가 유효하지 않습니다",
+    "linkPlus-global-ajaxRequest-response-status-errorWrongDomain": "",
+    "linkPlus-global-ajaxRequest-response-status-errorTimeoutOrUrl": "",
+    "linkPlus-global-ajaxRequest-response-status-errorWrongApiKey": "",
+    "linkPlus-global-ajaxRequest-status-error": "",
+    "linkPlus-global-ajaxRequest-response-unmanaged": "",
     "linkPlus-global-scanbarcode": "바코드 스캔",
     "linkPlus-global-scanFailure": "스캔 실패",
     "linkPlus-associationSingle-displayTitle": "Link Plus",
@@ -211,5 +216,14 @@
     "linkPlus-itemFinder-displayTitle": "",
     "linkPlus-itemFinder-eslCodeText": "",
     "linkPlus-itemFinder-idText": "",
-    "linkPlus-itemFinder-priceText": ""
+    "linkPlus-itemFinder-priceText": "",
+    "linkPlus-multiItemManagment-displayTitle": "",
+    "linkPlus-multiItemManagment-eslCodeText": "",
+    "linkPlus-multiItemManagment-itemCodeText": "",
+    "linkPlus-multiItemManagment-idText": "",
+    "linkPlus-multiItemManagment-priceText": "",
+    "linkPlus-multiItemManagment-nfcTagIsNotValidEslCode": "",
+    "linkPlus-multiItemManagment-sendUpdate": "",
+    "linkPlus-multiItemManagement-error-noMediaFound": "",
+    "linkPlus-multiItemManagement-error": ""
 }

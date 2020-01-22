@@ -156,6 +156,11 @@
     "linkPlus-global-ajaxRequest-configByFile-errorWrongDomain": "Error: incorrect domain",
     "linkPlus-global-ajaxRequest-configByFile-errorTimeoutOrUrl": "Error: host not reachable",
     "linkPlus-global-ajaxRequest-configByFile-errorWrongApiKey": "Error: invalid API key",
+    "linkPlus-global-ajaxRequest-response-status-errorWrongDomain": "",
+    "linkPlus-global-ajaxRequest-response-status-errorTimeoutOrUrl": "",
+    "linkPlus-global-ajaxRequest-response-status-errorWrongApiKey": "",
+    "linkPlus-global-ajaxRequest-status-error": "",
+    "linkPlus-global-ajaxRequest-response-unmanaged": "",
     "linkPlus-global-scanbarcode": "Scan a barcode",
     "linkPlus-global-scanFailure": "Scan failed",
     "linkPlus-associationSingle-displayTitle": "Link plus",
@@ -211,5 +216,14 @@
     "linkPlus-itemFinder-displayTitle": "Item finder",
     "linkPlus-itemFinder-eslCodeText": "ESL/item code",
     "linkPlus-itemFinder-idText": "id:",
-    "linkPlus-itemFinder-priceText": "price:"
+    "linkPlus-itemFinder-priceText": "price:",
+    "linkPlus-multiItemManagment-displayTitle": "",
+    "linkPlus-multiItemManagment-eslCodeText": "",
+    "linkPlus-multiItemManagment-itemCodeText": "",
+    "linkPlus-multiItemManagment-idText": "",
+    "linkPlus-multiItemManagment-priceText": "",
+    "linkPlus-multiItemManagment-nfcTagIsNotValidEslCode": "",
+    "linkPlus-multiItemManagment-sendUpdate": "",
+    "linkPlus-multiItemManagement-error-noMediaFound": "",
+    "linkPlus-multiItemManagement-error": ""
 }

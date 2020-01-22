@@ -156,6 +156,11 @@
     "linkPlus-global-ajaxRequest-configByFile-errorWrongDomain": "エラー：ドメイン設定間違い",
     "linkPlus-global-ajaxRequest-configByFile-errorTimeoutOrUrl": "エラー：ホストに到達できません",
     "linkPlus-global-ajaxRequest-configByFile-errorWrongApiKey": "エラー：無効なAPIキー",
+    "linkPlus-global-ajaxRequest-response-status-errorWrongDomain": "",
+    "linkPlus-global-ajaxRequest-response-status-errorTimeoutOrUrl": "",
+    "linkPlus-global-ajaxRequest-response-status-errorWrongApiKey": "",
+    "linkPlus-global-ajaxRequest-status-error": "",
+    "linkPlus-global-ajaxRequest-response-unmanaged": "",
     "linkPlus-global-scanbarcode": "バーコードをスキャン",
     "linkPlus-global-scanFailure": "スキャン失敗しました",
     "linkPlus-associationSingle-displayTitle": "Link plus",
@@ -211,5 +216,14 @@
     "linkPlus-itemFinder-displayTitle": "",
     "linkPlus-itemFinder-eslCodeText": "",
     "linkPlus-itemFinder-idText": "",
-    "linkPlus-itemFinder-priceText": ""
+    "linkPlus-itemFinder-priceText": "",
+    "linkPlus-multiItemManagment-displayTitle": "",
+    "linkPlus-multiItemManagment-eslCodeText": "",
+    "linkPlus-multiItemManagment-itemCodeText": "",
+    "linkPlus-multiItemManagment-idText": "",
+    "linkPlus-multiItemManagment-priceText": "",
+    "linkPlus-multiItemManagment-nfcTagIsNotValidEslCode": "",
+    "linkPlus-multiItemManagment-sendUpdate": "",
+    "linkPlus-multiItemManagement-error-noMediaFound": "",
+    "linkPlus-multiItemManagement-error": ""
 }

@@ -159,6 +159,11 @@
   "linkPlus-global-ajaxRequest-configByFile-errorWrongDomain": "",
   "linkPlus-global-ajaxRequest-configByFile-errorTimeoutOrUrl": "",
   "linkPlus-global-ajaxRequest-configByFile-errorWrongApiKey": "",
+  "linkPlus-global-ajaxRequest-response-status-errorWrongDomain": "",
+  "linkPlus-global-ajaxRequest-response-status-errorTimeoutOrUrl": "",
+  "linkPlus-global-ajaxRequest-response-status-errorWrongApiKey": "",
+  "linkPlus-global-ajaxRequest-status-error": "",
+  "linkPlus-global-ajaxRequest-response-unmanaged": "",
   "linkPlus-global-scanbarcode": "",
   "linkPlus-global-scanFailure": "",
   "linkPlus-associationSingle-displayTitle": "",
@@ -221,5 +226,7 @@
   "linkPlus-multiItemManagment-idText": "",
   "linkPlus-multiItemManagment-priceText": "",
   "linkPlus-multiItemManagment-nfcTagIsNotValidEslCode": "",
-  "linkPlus-multiItemManagment-sendUpdate": ""
+  "linkPlus-multiItemManagment-sendUpdate": "",
+  "linkPlus-multiItemManagement-error-noMediaFound": "",
+  "linkPlus-multiItemManagement-error": ""
 }

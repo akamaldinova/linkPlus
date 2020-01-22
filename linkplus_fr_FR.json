@@ -156,6 +156,11 @@
     "linkPlus-global-ajaxRequest-configByFile-errorWrongDomain": "Erreur: domaine incorrect",
     "linkPlus-global-ajaxRequest-configByFile-errorTimeoutOrUrl": "Erreur : Serveur injoignable",
     "linkPlus-global-ajaxRequest-configByFile-errorWrongApiKey": "Erreur : clé API invalide",
+    "linkPlus-global-ajaxRequest-response-status-errorWrongDomain": "",
+    "linkPlus-global-ajaxRequest-response-status-errorTimeoutOrUrl": "",
+    "linkPlus-global-ajaxRequest-response-status-errorWrongApiKey": "",
+    "linkPlus-global-ajaxRequest-status-error": "",
+    "linkPlus-global-ajaxRequest-response-unmanaged": "",
     "linkPlus-global-scanbarcode": "Scan du code-barre",
     "linkPlus-global-scanFailure": "le scan a échoué",
     "linkPlus-associationSingle-displayTitle": "Link Plus",
@@ -211,5 +216,14 @@
     "linkPlus-itemFinder-displayTitle": "Item finder",
     "linkPlus-itemFinder-eslCodeText": "Code étiquette/produit",
     "linkPlus-itemFinder-idText": "id :",
-    "linkPlus-itemFinder-priceText": "prix :"
+    "linkPlus-itemFinder-priceText": "prix :",
+    "linkPlus-multiItemManagment-displayTitle": "",
+    "linkPlus-multiItemManagment-eslCodeText": "",
+    "linkPlus-multiItemManagment-itemCodeText": "",
+    "linkPlus-multiItemManagment-idText": "",
+    "linkPlus-multiItemManagment-priceText": "",
+    "linkPlus-multiItemManagment-nfcTagIsNotValidEslCode": "",
+    "linkPlus-multiItemManagment-sendUpdate": "",
+    "linkPlus-multiItemManagement-error-noMediaFound": "",
+    "linkPlus-multiItemManagement-error": ""
 }
