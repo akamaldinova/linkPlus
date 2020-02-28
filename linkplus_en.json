@@ -82,6 +82,7 @@
   "linkPlus-setupParameters-itemModification-smart": "Smart Item Mod. (From Parameters setup page: Access to sub-page for setting filter on fields while accessing Item Modification page.)",
   "linkPlus-setupParameters-eslStatus": "Esl status (From Parameters setup page: enable or disable esl status option)",
   "linkPlus-setupParameters-itemFinder": "Item Finder (From Parameters setup page: enable or disable Item Finder [Put to Light] option)",
+  "linkPlus-setupParameters-multiItemManagment": "Multi Item Managment (From Parameters setup page: enable or disable Multi Item Management option)",
   "linkPlus-setupParameters-currentLanguage": "English (From Parameters setup page: current selected language in that language, if file en_GB then English, if file fr_FR then Français)",
   "linkPlus-setupLanguages-displayTitle": "Languages (From Language setup page: Title below SES-IMAGOTAG icon at the top of the page)",
   "linkPlus-setupLanguages-languageTitle": "Language (From Language setup page: Title line before the list of languages)",
