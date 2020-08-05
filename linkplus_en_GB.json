@@ -177,7 +177,7 @@
     "linkPlus-associationSingle-nfcTagIsNotValidEslCode": "NFC tag is not a valid ESL code",
     "linkPlus-associationSingle-eslCodeFieldEmpty": "Media ID code field is empty",
     "linkPlus-associationSingle-articleCodeFieldEmpty": "Item code field is empty",
-    "linkPlus-eslCheck-displayTitle": "Label check",
+    "linkPlus-eslCheck-displayTitle": "Search",
     "linkPlus-eslCheck-eslCodeText": "ESL code",
     "linkPlus-eslCheck-status": "Status",
     "linkPlus-eslCheck-eslData-onlineState": "Label state",
