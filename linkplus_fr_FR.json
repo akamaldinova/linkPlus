@@ -2,7 +2,7 @@
     "@metadata.authors[0]": "Jerome SICO",
     "@metadata.last-updated": "2019-02-26",
     "@metadata.locale": "fr_FR",
-    "@metadata.message-documentation": "linkplus_en.json",
+    "@metadata.message-documentation": "linkplus_fr_FR.json",
     "@metadata.message-test-display": "display.json",
     "linkPlus-index-title": "Link Plus $1",
     "linkPlus-index-setupServer": "Configuration du serveur",
