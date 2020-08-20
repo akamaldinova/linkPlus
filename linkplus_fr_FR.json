@@ -165,7 +165,7 @@
     "linkPlus-global-ajaxRequest-status-error": "Erreur: l'appel API a retourné une erreur",
     "linkPlus-global-ajaxRequest-response-unmanaged": "Erreur: l'appel API a retourné une erreur serveur non prise en charge",
     "linkPlus-global-scanbarcode": "Scan du code-barre",
-    "linkPlus-global-scanFailure": "le scan a échoué",
+    "linkPlus-global-scanFailure": "Le scan a échoué",
     "linkPlus-associationSingle-displayTitle": "Link Plus",
     "linkPlus-associationSingle-choiceAssoc": "Association",
     "linkPlus-associationSingle-choiceDissoc": "Dissociation",
